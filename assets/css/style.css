@@ -130,7 +130,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('../img/bgpr-mobile.webp');
+        background: url('../img/bg-mobile.webp');
 
         .cartao {
             flex: 1 0 calc(100% - 1rem);
